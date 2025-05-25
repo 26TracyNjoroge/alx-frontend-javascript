@@ -1,6 +1,6 @@
 namespace Subjects {
     export interface Teacher {
         firstName: string;
-        lateName: string;
+        lastName: string;
     }
 }
